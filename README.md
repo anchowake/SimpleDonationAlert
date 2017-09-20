@@ -1,4 +1,4 @@
-# Alerta Donaciones
+# Alerta Donaciones - Paypal Cruz Roja
 
 Para que comiencen a aparecer las alertas en tu pagina web solo pon el código dentro del tag `<body>`
 
